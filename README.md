@@ -1,2 +1,4 @@
 # Black-Friday-Sales-Analysis
-This repository contain Data Analysis on Black Friday Sales Data 
+
+Black Friday is an informal term for the Friday after Thanksgiving Day, which is observed on the fourth Thursday of November in the United States. Since 1952, the day after Thanksgiving has been considered as the start of the Christmas shopping season in the United States, though the phrase "Black Friday" did not become commonly used until more recent decades. Many retailers advertise heavily on Black Friday and open early, such as at midnight, or may even begin their discounts at some point on Thanksgiving. The main problem for a retail store or eCommerce business is determining the best product price to maximize profit at the end of the sales. Our study is concerned with establishing product prices based on previous data.
+The data included age, gender, marital status, product categories purchased, city demographics, purchase amount, and so on. There are 12 columns and 537577 records in the data.
